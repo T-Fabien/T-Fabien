@@ -3,14 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=t-fabien&label=Profile%20views&color=0e75b6&style=flat" alt="t-fabien" /> </p>
 
-- 🔭 Je travaille actuellement sur [Mon Portfolio](https://thiot-fabien.netlify.app/)
-- 🔭 Ainsi que  **Mon projet personnel**
-
-- 🌱 J'apprend actuellement **React**
+- 🌱 J'apprend actuellement **Laravel**
 
 - 💬 Vous pouvez me contactez **fabienthiot@gmail.com**
 
-- 👨‍💻 Mes différents projets sont disponible ici : [https://thiot-fabien.netlify.app/projects](https://thiot-fabien.netlify.app/projects)
+- 👨‍💻 Mes différents projets sont disponible ici : [https://github.com/T-Fabien](https://github.com/T-Fabien)
 
 - ⚡ Fun fact **Je suis un grand fan de Kaamelott**
 
