@@ -1,10 +1,10 @@
-<h1 align="center">Bonjour👋, je suis Fabien Thiot</h1>
+<h1 align="center">Bonjour👋, je suis Fabien</h1>
 <h3 align="center">Passionné de développement et surtout de développement web</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=t-fabien&label=Profile%20views&color=0e75b6&style=flat" alt="t-fabien" /> </p>
 
-- 🌱 J'apprend actuellement **Laravel**
-
+- 🌱 Actuellement en train de développer un jeu [Evercrown](https://store.steampowered.com/app/4306760/Evercrown/)
+]
 - 💬 Vous pouvez me contactez **fabienthiot@gmail.com**
 
 - 👨‍💻 Mes différents projets sont disponible ici : [https://github.com/T-Fabien](https://github.com/T-Fabien)
